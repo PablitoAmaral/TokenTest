@@ -158,7 +158,7 @@
       "logoURI": "https://raw.githubusercontent.com/unionlabs/token-lists/main/logos/pumpBTC.svg",
       "extensions": {
             "hubble": {
-                "height": 123
+                "instantiate_height": "123"
             },
             "dune": "hello1",
             "third_new_thing": {}
@@ -173,7 +173,7 @@
       "logoURI": "https://raw.githubusercontent.com/unionlabs/token-lists/main/logos/eBTC.svg",
       "extensions": {
             "hubble": {
-                "height": 123
+                "instantiate_height": "123"
             },
             "dune": "hello2",
             "third_new_thing": {}
@@ -188,7 +188,7 @@
       "logoURI": "https://raw.githubusercontent.com/unionlabs/token-lists/main/logos/mBTC.png",
       "extensions": {
             "hubble": {
-                "height": 123
+                "instantiate_height": "123"
             },
             "dune": "hello3",
             "third_new_thing": {}
